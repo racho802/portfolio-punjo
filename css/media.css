@@ -1,0 +1,208 @@
+@media(max-width:767px){
+    .name textarea {
+        width: 77%;
+        margin: 22px;
+        margin-top: 20px;
+    }
+    .navbar-nav{
+        position: relative;
+        text-align: center;
+        width: 50%;
+        margin: auto;
+        background: #10100e9e;
+        padding: 5px 20px;
+        box-shadow: 13px 4px 16px 0px #101010b8;
+    }
+    .navbar-light .navbar-nav .nav-link.active{
+        display: inline-block;
+        margin-bottom: 3px;
+        color: #fff;
+        padding: 0;
+        margin-left: 0;
+    }
+    .search-field {
+        position: absolute;
+        top: 120%;
+        right: -89px;
+    }
+    .icon {
+        position: absolute;
+        top: 7%;
+        right: 2px;
+    }
+    .banner-content {
+        margin-top: 405px;
+        margin-bottom: 104px;
+    }
+    .banner-content h1 {
+        text-align: center;
+        font: 30px;
+    }
+    .started {
+        margin-top: 37px;
+        margin-bottom: 20px;
+    }
+    .navbar-light .navbar-nav .nav-link.active::before {
+        content: "";
+        position: absolute;
+        left: 0%;
+        bottom: 10%;
+    }
+    .banner_item .owl-dots{
+
+    } 
+    .about-content {
+        margin-top: 50px;
+        margin-left: 20px;
+    }
+    .service span {
+        width: 80%;
+    }
+    .statistic span {
+        width: 80%;
+    }
+    .line::before {
+        display: none;
+    }
+    .line::after {
+        display: none;
+    }
+    .project {
+        margin-bottom: 30px;
+    }
+    .gallery img{
+        width: 100%;
+    }
+    .gallery {
+        margin-bottom: 20px;
+    }
+    .work span {
+        width: 80%;
+    }
+    .story span {
+        width: 80%;
+    }
+    .progress_item {
+        width: 81%;
+    }
+    .illustratror {
+        width: 81%;
+    }
+    .indesign  {
+        width: 81%;
+    }
+    .html {
+        width: 81%;
+    }
+    .php {
+        width: 81%;
+    }
+    .life h1 {
+        margin-top: 50px;
+        text-align: center;
+    }
+    .life span {
+        width: 80%;
+    }
+    .client span {
+        width: 100%;
+    }
+    .latest span {
+        width: 95%;
+    }
+    .latest p {
+        margin-top: 50px;
+    }
+    .contact span {
+        width: 95%;
+    }
+    .contact p {
+        margin: 50px 0%;
+    }
+    .first input {
+        width: 77%;
+        margin: 20px;
+    }
+    .name input[type="submit"] {
+        margin: 20px 22px;
+    }
+    .position {
+        width: 39%;
+        padding: 12px 0px 4px 15px;
+        position: absolute;
+        left: 56%;
+        top: 12%;
+    }
+    .follow span {
+        width: 80%;
+    }
+    .images {
+        margin-top: 50px;
+        margin-bottom: 0;
+    }
+    .person {
+        margin-bottom: 30px;
+    }
+    .banner_item .owl-nav{
+        display: none;
+    }
+    .banner_item .owl-nav{
+        display: block;
+    }
+    .progress_item {
+        width: 84%;
+    }
+    .illustratror {
+        width: 84%;
+    }
+    .indesign  {
+        width: 84%;
+    }
+    .html {
+        width: 84%;
+    }
+    .php {
+        width: 84%;
+    }
+    .life span {
+        width: 80%;
+        margin: auto;
+    }
+
+}
+@media(max-width:575px){
+    .name textarea {
+        width: 72%;
+        margin: 41px;
+        margin-top: 20px;
+    }
+    .banner-content {
+        margin-top: 405px;
+        margin-bottom: 104px;
+    }
+    .progress_item {
+        width: 81%;
+    }
+    .illustratror {
+        width: 81%;
+    }
+    .indesign  {
+        width: 81%;
+    }
+    .html {
+        width: 81%;
+    }
+    .php {
+        width: 81%;
+    }
+    .life span {
+        width: 100%;
+    }
+    .name input[type="submit"] {
+        margin: 20px 41px;
+    }
+    .banner_item .owl-nav{
+        display: none;
+    }
+
+}
